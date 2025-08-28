@@ -2,8 +2,8 @@
 
 body {
   margin: 0;
-  padding: 0 15%;  /* puts your content inside the center band */
-  color: #fff;
+  padding: 0 12.5%;  /* puts your content inside the center band */
+  color: #958a8a6f;
   background: linear-gradient(
     to right,
     #958a8a6f 0,      #958a8a6f 12.5%,
