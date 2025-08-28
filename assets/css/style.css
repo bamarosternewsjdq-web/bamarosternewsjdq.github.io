@@ -1,7 +1,8 @@
 /* style.css */
 
 body {
-  margin: 0;
+  margin-left: 15% auto;
+  margin-right: 15% auto;
   background: linear-gradient(
     to right,
     #808080 0,      /* grey left gutter */
@@ -13,14 +14,6 @@ body {
   );
   color: #ffffff;
 }
-
-/* Keep text narrower inside the crimson band */
-.content-wrapper {
-  margin-left: 15% auto;
-  margin-right: 15% auto;
-
-}
-
  a {
     color: #130606; 
     text-decoration: none;
