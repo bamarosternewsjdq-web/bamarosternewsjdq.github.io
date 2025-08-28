@@ -1,16 +1,16 @@
 /* style.css */
 
 html {
-  background-color: #fff;   /* margin color */
+  background-color: #7b001c; /* crimson red */
 }
 
 body {
-  background-color: #9E1B32;   /* main page color */
-  color: #fff;
-  margin: 0;                /* reset default margin */
-  padding-left: 15%;
+  background-color: white;   /* inner area */
+  margin: 0;                 /* remove default margin */
+  padding-left: 15%;         /* increase spacing */
   padding-right: 15%;
 }
+
 
 /* body {
   background-color: #9E1B32;
