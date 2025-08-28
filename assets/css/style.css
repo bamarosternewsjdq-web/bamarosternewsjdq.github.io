@@ -25,7 +25,6 @@
 
 /* this works */
 body {
-  margin: 15%;
   color: #ffffff;
   background: linear-gradient(
     to right,
@@ -36,6 +35,12 @@ body {
     #808080 90%,    
     #808080 100%
   );
+}
+
+.page-content {
+  max-width: 900px;     /* keeps lines readable */
+  margin: 10% auto;       /* centers the content */
+  padding: 20px;
 }
 
  a {
