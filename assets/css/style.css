@@ -1,23 +1,27 @@
 /* style.css */
 
+/* Grey gutters + crimson center */
 body {
-  margin-left: 15% auto;
-  margin-right: 15% auto;
+  margin: 0;
   background: linear-gradient(
     to right,
-    #808080 0,      /* grey left gutter */
-    #808080 10%,    /* shrink gutter */
-    #7b001c 10%,    /* crimson starts */
-    #7b001c 90%,    /* crimson ends */
-    #808080 90%,    /* right gutter */
+    #808080 0,       /* grey left gutter */
+    #808080 10%,     
+    #7b001c 10%,     /* crimson middle */
+    #7b001c 90%,     
+    #808080 90%,     /* grey right gutter */
     #808080 100%
   );
   color: #ffffff;
 }
- a {
-    color: #130606; 
-    text-decoration: none;
-  }
+
+/* Keep text centered inside the crimson middle */
+.page-content {
+  max-width: 900px;     /* keeps lines readable */
+  margin: 0 auto;       /* centers the content */
+  padding: 20px;
+}
+
 
 /* this works */
 /* body {
