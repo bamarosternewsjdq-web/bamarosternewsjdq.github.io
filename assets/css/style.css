@@ -3,15 +3,13 @@
 body {
   background-color: #9E1B32;
   color: #ffffff;
+  margin-left: 100px;
+  margin-right: 100px;
+
+
 }
 
   a {
     color: #130606; /* lighter shade for contrast */
     text-decoration: none;
   }
-
-  .post-content {
-  max-width: 800px;   /* limit how wide the post can get */
-  margin: 0 auto;     /* center it horizontally */
-  padding: 0 20px;    /* add space on left & right */
-}
