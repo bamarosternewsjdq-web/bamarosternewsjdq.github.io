@@ -5,12 +5,12 @@
 /* Grey gutters + crimson middle */
 body {
   margin: 0;
-  color: #fff;
+  color:#130606;
   background: linear-gradient(
     to right,
-    #808080 0 10%,   /* left gutter */
-    #7b001c 10% 90%, /* crimson middle */
-    #808080 90% 100% /* right gutter */
+    #7b001c 0 10%,   /* left gutter */
+    #808080 10% 90%, /* crimson middle */
+    #7b001c 90% 100% /* right gutter */
   );
 }
 
@@ -39,6 +39,6 @@ body {
 }
 
  a {
-    color: #130606; 
+    color: #fff; 
     text-decoration: underline;
  }
