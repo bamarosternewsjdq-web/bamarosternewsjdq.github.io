@@ -2,15 +2,41 @@
 
 body {
   margin: 0;
-  padding: 0 15%;  /* content sits in the crimson middle */
-  color: #ffffff;
   background: linear-gradient(
     to right,
     #808080 0,      /* grey left gutter */
+    #808080 10%,    /* shrink gutter */
+    #7b001c 10%,    /* crimson starts */
+    #7b001c 90%,    /* crimson ends */
+    #808080 90%,    /* right gutter */
+    #808080 100%
+  );
+  color: #ffffff;
+}
+
+/* Keep text narrower inside the crimson band */
+.content-wrapper {
+  max-width: 900px;   /* limit text width */
+  margin: 0 auto;     /* center it */
+  padding: 20px;
+}
+
+ a {
+    color: #130606; 
+    text-decoration: none;
+  }
+
+/* this works */
+/* body {
+  margin: 0;
+  color: #ffffff;
+  background: linear-gradient(
+    to right,
+    #808080 0,      
     #808080 10%,
-    #7b001c 10%,    /* crimson content */
+    #7b001c 10%,    
     #7b001c 90%,
-    #808080 90%,    /* grey right gutter */
+    #808080 90%,    
     #808080 100%
   );
 }
@@ -18,7 +44,7 @@ body {
  a {
     color: #130606; 
     text-decoration: none;
-  }
+  } */
 
 
 
