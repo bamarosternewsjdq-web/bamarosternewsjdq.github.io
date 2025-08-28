@@ -1,46 +1,41 @@
 /* style.css */
 
-/* Grey gutters + crimson center */
-/* body {
-  margin: 0;
-  background: linear-gradient(
-    to right,
-    #808080 0,      
-    #808080 10%,     
-    #7b001c 10%,     
-    #7b001c 90%,     
-    #808080 90%,     
-    #808080 100%
-  );
-  color: #ffffff;
-} */
-
-/* 
-.page-content {
-  max-width: 900px;
-  margin: 0 auto;       
-  padding: 20px;
-} */
 
 
-/* this works */
+/* Grey gutters + crimson middle */
 body {
-  color: #ffffff;
+  margin: 0;
+  color: #fff;
   background: linear-gradient(
     to right,
-    #808080 0,      
-    #808080 10%,
-    #7b001c 10%,    
-    #7b001c 90%,
-    #808080 90%,    
-    #808080 100%
+    #808080 0 10%,   /* left gutter */
+    #7b001c 10% 90%, /* crimson middle */
+    #808080 90% 100% /* right gutter */
   );
 }
 
-.page-content {
-  max-width: 900px;     /* keeps lines readable */
-  margin: 10% auto;       /* centers the content */
-  padding: 20px;
+/* Keep ALL main sections inside the crimson band */
+.site-header,
+.page-content,
+.site-footer {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* Control readable line length + keep bullets away from the edge */
+.site-header .wrapper,
+.page-content .wrapper,
+.site-footer .wrapper {
+  max-width: 900px;   /* adjust to taste */
+  margin: 0 auto;
+  padding: 0 20px;    /* keeps text/bullets off the crimson edge */
+}
+
+/* Prevent list markers from hanging into the grey gutter */
+.page-content ul,
+.page-content ol {
+  list-style-position: inside;
 }
 
  a {
