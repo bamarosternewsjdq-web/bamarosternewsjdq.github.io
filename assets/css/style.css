@@ -2,16 +2,18 @@
 
 body {
   margin: 0;
-  padding: 0 12.5%;  /* puts your content inside the center band */
-  color: #958a8a6f;
+  padding: 0 15%;  /* content sits in the crimson middle */
+  color: #ffffff;
   background: linear-gradient(
     to right,
-    #958a8a6f 0,      #958a8a6f 12.5%,
-    #7b001c 12.5%,    #7b001c 82.5%,
-     #958a8a6f 82.5%,     #958a8a6f 100%
+    #808080 0,      /* grey left gutter */
+    #808080 15%,
+    #7b001c 15%,    /* crimson content */
+    #7b001c 85%,
+    #808080 85%,    /* grey right gutter */
+    #808080 100%
   );
 }
-
 
 
 
