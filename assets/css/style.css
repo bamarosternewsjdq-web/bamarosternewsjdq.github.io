@@ -27,7 +27,7 @@ body {
 .site-header .wrapper,
 .page-content .wrapper,
 .site-footer .wrapper {
-  max-width: 900px;   /* adjust to taste */
+  max-width: 1000px;   /* adjust to taste */
   margin: 0 auto;
   padding: 0 20px;    /* keeps text/bullets off the crimson edge */
 }
@@ -40,5 +40,5 @@ body {
 
  a {
     color: #130606; 
-    text-decoration: none;
+    text-decoration: underline;
  }
