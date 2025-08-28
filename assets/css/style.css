@@ -1,0 +1,31 @@
+/* style.css */
+
+body {
+    background-color: #9E1B32;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    margin-top: 1em;
+  }
+  
+  /* Links */
+  a {
+    color: #ffcccb; /* lighter shade for contrast */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Paragraph spacing */
+  p {
+    line-height: 1.6;
+    margin: 1em 0;
+  }
