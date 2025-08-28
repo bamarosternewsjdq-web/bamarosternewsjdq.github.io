@@ -5,7 +5,8 @@ date: 2025-08-15 12:00:00 +0000
 categories: updates
 ---
 
- Hello and Roll Tide! On Tuesday, Alabama announced Ty Simpson as the starting Quarterback for the 2025 season. Now that the leader of the offense has been chosen, let’s get to know the offense better. Below is a projected depth chart and a roster rundown of all scholarship players on the offensive side of the ball. It's a long read but I hope you enjoy it. Let’s go!
+# Hello and Roll Tide!
+On Tuesday, Alabama announced Ty Simpson as the starting Quarterback for the 2025 season. Now that the leader of the offense has been chosen, let's get to know the offense better. Below is a projected depth chart and a roster rundwon of all scholarship players on the offensive side of the ball. It's a long read but I hop you enjoy it. Let's go!
 
 Depth Chart:
 
