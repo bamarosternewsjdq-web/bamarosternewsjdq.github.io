@@ -8,9 +8,9 @@ categories: updates
 # **Hello and Roll Tide!**
 On Tuesday, Alabama announced Ty Simpson as the starting Quarterback for the 2025 season. Now that the leader of the offense has been chosen, let's get to know the offense better. Below is a projected depth chart and a roster rundwon of all scholarship players on the offensive side of the ball. It's a long read but I hop you enjoy it. Let's go!
 
-**Depth Chart:**
+# **Depth Chart:**
 
-Offense	
+## Offense	
 
 QB	Ty Simpson	Austin Mack Keelon Russell	
 
@@ -37,9 +37,9 @@ RG	Jaeden Roberts	Geno VanDeMark	Joseph Ionata	William Sanders
 RT	Wilkin Formby	Jackson Lloyd	Arkel Anugwom	
 
 
-**Roster Rundown (in order of seniority):**
+# **Roster Rundown (in order of seniority):**
 
-Quarterbacks
+## Quarterbacks
 
 ·       #15 Ty Simpson (Redshirt Junior) – Entering his 4th season, Ty has had little experience running Alabama’s offense. Over the past 3 years Ty has attempted 50 passes completing 29 of them for 381 yards. He has not thrown a touchdown or interception. He has however rushed for 3 touchdowns. Ty is a former 5-star quarterback ranked 29th overall in the 2022 recruiting cycle. In 2021 Simpson won the Tennessee Gatorade Player of the Year as he led Westview High School to a Class 2A state championship. While Ty lacks experience at the college level, his potential remains high. Ty spent last season learning the offense as backup to Jalen Milroe and is looking to have a breakout year during Kalen DeBoer’s 2nd year behind the helm.
 
@@ -49,7 +49,7 @@ Quarterbacks
 
 
 
-Running Backs
+## Running Backs
 
 ·       #20 Dre Washington (Redshirt Senior) – Dre Washington transferred from Louisiana to Alabama with his last year of eligibility. Dre is an experienced back, rushing over 60 times each of the last 3 seasons. Dre rushed 229 times for 1,343 yards and 9 touchdowns in 32 games at Louisiana. It is difficult to see where he will land on Alabama’s depth chart, but it is worth noting that he has big play potential. In 2022 Dre had a rush that went for 54 yards, in 2023 a rush for 62 yards, 2024 a rush for 64 yards, and a reception in 2024 that went 66 yards. While he may not be the lead backup to Jam Miller, Dre will have opportunities to break defenses open.
 
@@ -65,7 +65,7 @@ Running Backs
 
  
 
-Wide Receivers
+## Wide Receivers
 
 ·       #5 Germie Bernard (Senior) – Bernard is yet another former Washington player who transferred to Alabama when DeBoer signed with the Tide. Germie had a productive 2024 season, immediately showing Tide fans why DeBoer brought him over. Germie was second in receiving with 794 yards in a run-heavy offense. He is a skilled route runner and can create a lot of separation from DBs. The addition of Ryan Grubb should spark the passing offense this season. Germie will start beside Ryan Williams and is a candidate to have a breakout season.
 
@@ -89,7 +89,7 @@ Wide Receivers
 
  
 
-Tight Ends
+## Tight Ends
 
 ·       #80 Josh Cuevas (Redshirt Senior) – Cuevas joined the Tide in 2024, transferring over with DeBoer from Washington. Before playing at Washington, Cuevas had a productive 2022 season at California Polytechnic catching 58 passes for 678 yards and 6 touchdowns. Cuevas showed flashes of that form with the Tide a season ago. His big highlight came against Wisconsin when he caught a 37-yard pass for a touchdown, running a tight end seam route. Cuevas is expected to be Alabama’s starter in the TE-Y position where he should see a hefty number of pass-catching opportunities.
 
@@ -109,7 +109,7 @@ Tight Ends
 
 ·       #18 Marshall Pritchett (Freshman) – Pritchett played varsity ball at Rabun Gap-Nacoochee High School in Georgia. Marshall started his career at Quarterback before moving to wide receiver. As he filled out his 6-5 frame, Pritchett eventually moved to Tight End. His experience at quarterback makes him a high IQ receiver who can often take advantage of zone-coverage. Pritchett will need to develop as a blocker before seeing any meaningful time with Alabama.
 
-Offensive Line
+## Offensive Line
 
 ·       #77 Jaeden Roberts (Redshirt Senior) – Jaeden stepped onto the scene in 2023 making his first career start against Texas A&M. He immediately sparked the offense, specifically as a bruiser in the run game. Roberts has started ever since, only missing the Mercer game in 2024 due to injury. Jaeden is dealing with an injury which caused him to miss the Tide’s first scrimmage of the Fall. Roberts is expected to start against FSU and be a leader on the offensive line.
 
