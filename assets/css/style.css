@@ -6,9 +6,9 @@ body {
   color: #fff;
   background: linear-gradient(
     to right,
-    #ffffff 0,      #ffffff 15%,
-    #7b001c 15%,    #7b001c 85%,
-    #ffffff 85%,    #ffffff 100%
+    #958a8a6f 0,      #958a8a6f 12.5%,
+    #7b001c 12.5%,    #7b001c 82.5%,
+     #958a8a6f 82.5%,     #958a8a6f 100%
   );
 }
 
