@@ -1,0 +1,20 @@
+title: Bama Roster News JDQ
+description: Host of my weekly newsletters
+url: "https://bamarosternewsjdq-web.github.io"
+baseurl: ""
+
+#Author info
+author:
+  name: Jake Quigley
+  email: bamarosternewsjdq@gmail.com
+
+# Theme
+theme: minima
+
+# Plugins (safe on GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalink structure
+permalink: /:categories/:year/:month/:day/:title/
