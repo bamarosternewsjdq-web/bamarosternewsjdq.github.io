@@ -1,7 +1,26 @@
 /* style.css */
 
-html {
-  background-color: white; /* margins will be white */
+body {
+  margin: 0;
+  padding: 0 15%;  /* puts your content inside the center band */
+  color: #fff;
+  background: linear-gradient(
+    to right,
+    #ffffff 0,      #ffffff 15%,
+    #7b001c 15%,    #7b001c 85%,
+    #ffffff 85%,    #ffffff 100%
+  );
+}
+
+
+
+
+
+
+
+
+/* html {
+  background-color: white; 
 }
 
 
@@ -19,6 +38,6 @@ body {
 }
 
   a {
-    color: #130606; /* lighter shade for contrast */
+    color: #130606; 
     text-decoration: none;
-  }
+  } */
