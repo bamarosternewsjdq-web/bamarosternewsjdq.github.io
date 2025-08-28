@@ -27,7 +27,9 @@ Removed Peyton Woodyard who transferred to Oregon
 
 ## **BONUS CONTENT: College Football 25 by EA Sports**
 
-For those of you who bought the new College Football game for PS5 or XBOX X|S, you may have noticed that the Bama Roster does not match what I’ve been sending each week. Some players opted out, others transferred in after the deadline to make it into the game. As well, there are plenty of fake players that EA put into the game to fill out the Roster. My notes are below:
+For those of you who bought the new College Football game for PS5 or XBOX X|S, you may have noticed that the Bama Roster does not match 
+what I’ve been sending each week. Some players opted out, others transferred in after the deadline to make it into the game. As well, 
+there are plenty of fake players that EA put into the game to fill out the Roster. My notes are below:
 
  
 
