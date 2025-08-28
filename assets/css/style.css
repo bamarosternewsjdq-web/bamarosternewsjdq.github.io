@@ -1,5 +1,10 @@
 /* style.css */
 
+html {
+  background-color: white; /* margins will be white */
+}
+
+
 body {
   background-color: #9E1B32;
   color: #ffffff;
