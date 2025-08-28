@@ -7,15 +7,18 @@ body {
   background: linear-gradient(
     to right,
     #808080 0,      /* grey left gutter */
-    #808080 15%,
-    #7b001c 15%,    /* crimson content */
-    #7b001c 85%,
-    #808080 85%,    /* grey right gutter */
+    #808080 10%,
+    #7b001c 10%,    /* crimson content */
+    #7b001c 90%,
+    #808080 90%,    /* grey right gutter */
     #808080 100%
   );
 }
 
-
+ a {
+    color: #130606; 
+    text-decoration: none;
+  } */
 
 
 
