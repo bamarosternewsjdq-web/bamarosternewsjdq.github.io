@@ -9,7 +9,7 @@ body {
   background: linear-gradient(
     to right,
     #7b001c 0 10%,   /* left gutter */
-    #808080 10% 90%, /* crimson middle */
+    #fff 10% 90%, /* crimson middle */
     #7b001c 90% 100% /* right gutter */
   );
 }
@@ -39,6 +39,6 @@ body {
 }
 
  a {
-    color: #fff; 
+    color:#7b001c; 
     text-decoration: underline;
  }
