@@ -16,9 +16,9 @@ body {
 
 /* Keep text narrower inside the crimson band */
 .content-wrapper {
-  max-width: 900px;   /* limit text width */
-  margin: 0 auto;     /* center it */
-  padding: 20px;
+  margin-left: 15% auto;
+  margin-right: 15% auto;
+
 }
 
  a {
