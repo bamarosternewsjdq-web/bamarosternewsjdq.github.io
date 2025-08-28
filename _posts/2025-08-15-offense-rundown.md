@@ -8,20 +8,32 @@ categories: updates
 # Hello and Roll Tide!
 On Tuesday, Alabama announced Ty Simpson as the starting Quarterback for the 2025 season. Now that the leader of the offense has been chosen, let's get to know the offense better. Below is a projected depth chart and a roster rundwon of all scholarship players on the offensive side of the ball. It's a long read but I hop you enjoy it. Let's go!
 
-Depth Chart:
+##Depth Chart:
 
-Offense				
-QB	Ty Simpson	Austin Mack	Keelon Russell	
+Offense	
+
+QB	Ty Simpson	Austin Mack Keelon Russell	
+
 RB	Jamarian Miller	Richard Young	Daniel Hill	Dre'lyn Washington
-WR-X	Isaiah Horton	Jalen Hale	Derek Meadows	
+
+WR-X	Isaiah Horton	Jalen Hale	Derek Meadows
+
 WR-Z	Germie Bernard	Rico Scott	Jaylen Mbakwe	
+
 WR-H	Ryan Williams	Lotzeir Brooks	Cole Adams	Bubba Hampton
+
 TE -Y	Josh Cuevas	Danny Lewis	Marshall Pritchett	Jay Lindsey
+
 TE -H	Brody Dalton	Jack Sammarco	Kaleb Edwards	Peter Knudson
+
 LT	Kaydn Proctor	Olaus Alinen	Micah DeBose	
+
 LG	Kam Dewberry	Geno VanDeMark	Michael Carroll	Casey Poe
+
 OC	Parker Brailsford	Geno VanDeMark	Roq Montgomery	Joseph Ionata
+
 RG	Jaeden Roberts	Geno VanDeMark	Joseph Ionata	William Sanders
+
 RT	Wilkin Formby	Jackson Lloyd	Arkel Anugwom	
 
 
