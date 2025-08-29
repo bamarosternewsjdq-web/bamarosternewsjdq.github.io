@@ -42,3 +42,12 @@ body {
     color:#7b001c; 
     text-decoration: underline;
  }
+
+ .site-nav .page-link {
+  margin-right: 20px;   /* space between links */
+  text-decoration: underline;
+}
+
+.site-nav .page-link:last-child {
+  margin-right: 0;      /* no extra space after the last link */
+}
