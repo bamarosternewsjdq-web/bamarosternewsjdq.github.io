@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Season Preview/Week 1 - Florida State"
+title: "2025 Season Preview/Week 1 - Florida State"
 date: 2025-08-29 12:00:00 +0000
 categories: updates
 ---
