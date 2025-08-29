@@ -8,40 +8,42 @@ categories: updates
 
 Depth Chart: (my predictions)
 
-​
-QB	Ty Simpson	Austin Mack	Keelon Russell	
-RB	Jamarian Miller	Richard Young	Daniel Hill	Dre'lyn Washington
-WR-X	Isaiah Horton	Jalen Hale	Derek Meadows	
-WR-Z	Germie Bernard	Rico Scott	Jaylen Mbakwe	
-WR-H	Ryan Williams	Lotzeir Brooks	Cole Adams	Bubba Hampton
-TE -Y	Josh Cuevas	Danny Lewis	Marshall Pritchett	Jay Lindsey
-TE -H	Brody Dalton	Jack Sammarco	Kaleb Edwards	Peter Knudson
-LT	Kaydn Proctor	Olaus Alinen	Micah DeBose	
-LG	Kam Dewberry	Geno VanDeMark	Michael Carroll	Casey Poe
-OC	Parker Brailsford	Geno VanDeMark	Roq Montgomery	Joseph Ionata
-RG	Jaeden Roberts	Geno VanDeMark	Joseph Ionata	William Sanders
-RT	Wilkin Formby	Jackson Lloyd	Arkel Anugwom	
+#### Offense​
+- QB	Ty Simpson	Austin Mack	Keelon Russell	
+- RB	Jamarian Miller	Richard Young	Daniel Hill	Dre'lyn Washington
+- WR-X	Isaiah Horton	Jalen Hale	Derek Meadows	
+- WR-Z	Germie Bernard	Rico Scott	Jaylen Mbakwe	
+- WR-H	Ryan Williams	Lotzeir Brooks	Cole Adams	Bubba Hampton
+- TE -Y	Josh Cuevas	Danny Lewis	Marshall Pritchett	Jay Lindsey
+- TE -H	Brody Dalton	Jack Sammarco	Kaleb Edwards	Peter Knudson
+- LT	Kaydn Proctor	Olaus Alinen	Micah DeBose	
+- LG	Kam Dewberry	Geno VanDeMark	Michael Carroll	Casey Poe
+- OC	Parker Brailsford	Geno VanDeMark	Roq Montgomery	Joseph Ionata
+- RG	Jaeden Roberts	Geno VanDeMark	Joseph Ionata	William Sanders
+- RT	Wilkin Formby	Jackson Lloyd	Arkel Anugwom	
 
-BAN	LT Overton	Kelby Collins	Jordan Renaud	Keon Keeley
-NT	Tim Keenan III	Jeremiah Beaman	Isaia Faga	
-DT	James Smith	Edric Hill	Steve Mboumoua	London Simmons
-WOLF	Qua Russaw	Yhonzae Pierre	Noah Carter	
-WOLF-Blitz	Jah-Marien Latham	Keon Keeley	Justin Hill	
-MLB	Deontae Lawson	Cayden Jones	Darrell Johnson	
-STING	Justin Jefferson	Nikhai Hill-Green	Luke Metz	
-FCB	Domani Jackson	Dijon Lee	Cameron Calhoun	
-ROVER	Keon Sabb	Zay Mincey	Kameron Howard	
-FS	Bray Hubbard	Ivan Taylor	Ivan Taylor	
-BCB	Zabien Brown	Jaylen Mbakwe	Chuck McDonald	
-HUSKY	DaShawn Jones	Red Morgan		
+#### Defense
+- BAN	LT Overton	Kelby Collins	Jordan Renaud	Keon Keeley
+- NT	Tim Keenan III	Jeremiah Beaman	Isaia Faga	
+- DT	James Smith	Edric Hill	Steve Mboumoua	London Simmons
+- WOLF	Qua Russaw	Yhonzae Pierre	Noah Carter	
+- WOLF-Blitz	Jah-Marien Latham	Keon Keeley	Justin Hill	
+- MLB	Deontae Lawson	Cayden Jones	Darrell Johnson	
+- STING	Justin Jefferson	Nikhai Hill-Green	Luke Metz	
+- FCB	Domani Jackson	Dijon Lee	Cameron Calhoun	
+- ROVER	Keon Sabb	Zay Mincey	Kameron Howard	
+- FS	Bray Hubbard	Ivan Taylor	Ivan Taylor	
+- BCB	Zabien Brown	Jaylen Mbakwe	Chuck McDonald	
+- HUSKY	DaShawn Jones	Red Morgan		
 
-PT	Blake Doud	Alex Asparuhov		
-PK	Conor Talty			
-KO	Conor Talty			
-LS	David Bird			
-H	Blake Doud	Alex Asparuhov		
-PR	Cole Adams	Jaylen Mbakwe	Lotzeir Brooks	
-KR	Jaylen Mbakwe	Ryan Williams	Lotzeir Brooks	
+#### Special Teams
+- PT	Blake Doud	Alex Asparuhov		
+- PK	Conor Talty			
+- KO	Conor Talty			
+- LS	David Bird			
+- H	Blake Doud	Alex Asparuhov		
+- PR	Cole Adams	Jaylen Mbakwe	Lotzeir Brooks	
+- KR	Jaylen Mbakwe	Ryan Williams	Lotzeir Brooks	
 
 
 ​
