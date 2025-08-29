@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bama Roster Update 8/15/2025"
+title: "Offense Rundown 2025"
 date: 2025-08-15 12:00:00 +0000
 categories: updates
 ---

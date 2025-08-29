@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bama Roster Update 1/29/2024"
+title: "First Email - Ryan Williams Commits"
 date: 2024-01-29 12:00:00 +0000
 categories: updates
 ---

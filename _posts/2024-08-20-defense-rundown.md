@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bama Roster Update 8/20/2024"
+title: "Position Groups 2024 - Defense"
 date: 2024-08-20 12:00:00 +0000
 categories: updates
 ---

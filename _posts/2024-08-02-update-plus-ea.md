@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bama Roster Update 8/2/2024"
+title: "Recruiting Update and EA College Football 25"
 date: 2024-08-02 12:00:00 +0000
 categories: updates
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alabama Roster Update 8/29/2025"
+title: "Season Preview/Week 1 - Florida State"
 date: 2025-08-29 12:00:00 +0000
 categories: updates
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alabama Roster Update 10/4/2024"
+title: "Week 6 Preview - Vanderbilt"
 date: 2024-10-04 12:00:00 +0000
 categories: updates
 ---
