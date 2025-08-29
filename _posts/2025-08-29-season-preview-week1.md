@@ -6,7 +6,7 @@ categories: updates
 ---
  Hello and Roll Tide! Alabama kicks off the 2025 College Football season on Saturday August 30th at Doak Campbell Stadium in Tallahassee, Florida. The Tide will take on the Seminoles of Florida State to start the 2025 season. Kalen DeBoer had a successful year 1 at Alabama though many would say that it did not live up to the Bama standard. DeBoer and staff look to re-enter the national picture one game at a time, starting with Florida State. Below is a projected depth chart, injury updates, season storylines, FSU preview, and week 1 storylines. Let’s go!
 
-Depth Chart: (my predictions)
+## Depth Chart: (my predictions)
 
 #### Offense​
 - QB	Ty Simpson	Austin Mack	Keelon Russell	
@@ -47,7 +47,7 @@ Depth Chart: (my predictions)
 
 
 ​
-Injury Updates:
+## Injury Updates:
 
 ·       Jam Miller is OUT against Florida State with a dislocated collarbone. He will likely miss the first 4 weeks of the season.
 
@@ -57,7 +57,7 @@ Injury Updates:
 
  
 
-2025 Alabama Crimson Tide Storylines:
+## 2025 Alabama Crimson Tide Storylines:
 
 1)     Getting back to the playoffs – Last season Alabama had a very difficult task in replacing Nick Saban as the head football coach. Greg Byrne acted fast, hiring Kalen DeBoer only 49 hours after Saban’s retirement. Still, some 20 players entered the transfer portal. Kalen did a great job keeping the remainder of the team together and even brought in transfers of his own. Year one was difficult and turbulent as the Tide finished 9-4, missing the playoff by one spot. This Spring, Alabama did not have any players enter the portal demonstrating how tight this unit is. While players may have stayed a season ago due to the script A on their jerseys, everyone on this roster is committed to DeBoer’s vision. While many people's goal will be to win the National Title, the new staff should start smaller and be satisfied with a trip to the College Football Playoffs. DeBoer needs to establish to the school and their fans that he can put this team in a position to win it all.
 
@@ -71,7 +71,7 @@ Injury Updates:
 
  
 
-Week 1: Florida State Seminoles
+## Week 1: Florida State Seminoles
 
 On Saturday, Florida State will host Alabama at Doak Campbell stadium for the first time ever. Alabama and FSU have only played each other 5 times and FSU has never been the home team. Alabama leads the all-time series 3-1-1. They played each other at Tuscaloosa in 1965 (W 21-0), Birmingham in 1967 (T 37-37), Tuscaloosa in 1974 (W 8-7), Jacksonville in 2007 (L 14-21), and Atlanta in 2017 (W 24-7). Florida State rose to national prominence in the 1990s as they played in 5 national championship games between 1993 and 2000. Florida State has won 3 national titles: 1993, 1999, and 2013. FSU won the ACC in 2023 touting a 13-0 record before losing to Georgia 63-3 in the Orange Bowl.
 
@@ -83,7 +83,7 @@ Florida State’s defense struggled in 2024 ranking 87th in points allowed per g
 
  
 
-Week 1 Storylines
+## Week 1 Storylines
 
 1)     Down 3 Starters, do we have the depth? – Alabama suffered some significant blows this past week as three starters will likely miss week 1: Running back Jam Miller, Right guard Jaeden Roberts, and Nose Tackle Tim Keenan. All were expected to be big contributors this season, now the Tide must look to depth at those positions.
 
