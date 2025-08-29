@@ -23,6 +23,3 @@ header_pages:
 - index.md 
 - about.md
 - contact.md
-
-footer_pages:
-- footer.html
