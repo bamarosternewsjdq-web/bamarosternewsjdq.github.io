@@ -61,3 +61,11 @@ input#nav-trigger.nav-trigger {
 label[for="nav-trigger"] {
   display: none !important;
 }
+
+.site-title {
+  font-size: 2.2rem;      /* increase text size */
+  font-weight: bold;      /* make it stand out */
+  text-align: center;     /* center the text */
+  display: block;         /* ensures centering works */
+  margin: 0 auto 10px;    /* auto centers + adds spacing below */
+}
