@@ -52,10 +52,12 @@ body {
   margin-right: 0;
 }
 
-input.nav-trigger {
+/* Hide the nav toggle checkbox */
+input#nav-trigger.nav-trigger {
   display: none !important;
 }
 
+/* Hide the hamburger menu icon */
 label[for="nav-trigger"] {
   display: none !important;
 }
