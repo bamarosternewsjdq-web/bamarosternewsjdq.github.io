@@ -5,8 +5,6 @@ date: 2025-09-05 12:00:00 +0000
 categories: updates
 ---
 
-***Archived newsletters can be found on my website at http://bamarosternewsjdq.com/*** 
-
 ## Hello and Roll Tide!
 
 For this first time since Week1 in 2008, the Alabama Crimson Tide are ranked in the 20’s of the AP Poll. The program is facing extreme criticism after the embarrassing loss to open the season. DeBoer and staff now turn their focus to the Louisiana-Monroe Warhawks. Alabama needs to silence the outside noise and just focus on the opponent ahead of them. Below are injury notes, a Louisiana-Monroe preview, and week 1 storylines. Let’s go!
