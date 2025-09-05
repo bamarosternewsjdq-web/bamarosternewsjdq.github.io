@@ -29,7 +29,7 @@ Vincent built the roster the past two seasons primarily out of the transfer port
 
 ## ***Week 2 Storylines:***
 
-**Strength vs Weakness** - ULM head coach Bryant Vincent has made a career off of running the football. After Alabama’s poor display on Saturday, Vincent will certainly look to take advantage of Alabama’s week spot. They have plenty of capable runners who can pound the rock all night. Florida State gave ULM plenty of tape to work with.  Alabama needs to play with high effort and intensity to take away ULM’s strength and force them to throw the football.
+**Strength vs Weakness** - ULM head coach Bryant Vincent has made a career off of running the football. After Alabama’s poor display on Saturday, Vincent will certainly look to take advantage of Alabama’s weak spot. They have plenty of capable runners who can pound the rock all night. Florida State gave ULM plenty of tape to work with.  Alabama needs to play with high effort and intensity to take away ULM’s strength and force them to throw the football.
 
 **Defensive line depth** – Tim Keenan remains out against Louisiana-Monroe and in shocking news, freshman Jeremiah Beaman suffered a season ending injury. Kane rotated 8 different players along the defensive line as he tried to stop the FSU rushing attack, to no avail. Now down Beaman, Keenan’s primary backup, where will he turn? Does he move LT or Kelby inside? Will he play more linebackers in run support? The defensive line is in shambles and Kane needs to figure out how to fix it fast.
 
