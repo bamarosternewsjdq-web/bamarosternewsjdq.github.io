@@ -11,17 +11,17 @@ Alabama improved to 2-1 after winning 38-14 against Wisconsinon Saturday morning
 
 ### Injury Notes:
 
-    Jam Miller, Jah-Marien Latham, Tim Keenan, andDanny Lewis did not play Saturday and are considered day-to-day
-    LT Overton exited Saturday’s game with aninjury, but is expected to be available in week 5 against Georgia 
+Jam Miller, Jah-Marien Latham, Tim Keenan, andDanny Lewis did not play Saturday and are considered day-to-day.
+LT Overton exited Saturday’s game with aninjury, but is expected to be available in week 5 against Georgia. 
 
 
 ### Depth Notes:
 
-    Geno VanDeMark started at Right Guard
-    London Simmons started at Defensive Tackle
-    Yhonzae Pierre was the first WOLF off the bench
-    Kaleb Edwards was the first Tight End on thefield
--   Cole Adams remains the sole punt returner 
+Geno VanDeMark started at Right Guard.
+London Simmons started at Defensive Tackle.
+Yhonzae Pierre was the first WOLF off the bench.
+Kaleb Edwards was the first Tight End on thefield.
+Cole Adams remains the sole punt returner. 
 
 
 
