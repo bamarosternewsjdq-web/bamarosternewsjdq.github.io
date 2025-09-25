@@ -70,11 +70,25 @@ label[for="nav-trigger"] {
   margin: 0 auto 10px;    /* auto centers + adds spacing below */
 }
 /*Bullets */
-ul {
-  padding-left: 1.5rem;  /* Push bullets inward */
-  margin-left: 0;        /* Prevent extra margin if theme adds it */
+
+/*ul {
+  padding-left: 1.5rem;  
+  margin-left: 0;        
 }
 
 li {
-  line-height: 1.6;      /* More readable spacing */
+  line-height: 1.6;     
+}
+
+/* Limit lists inside post content to match body margins */
+.post-content ul {
+  padding-left: 1.2em;   /* keeps bullets but indents neatly */
+  margin-left: 0;        /* removes any theme’s default extra margin */
+  list-style-position: inside; /* keeps bullets aligned with text */
+  max-width: 100%;       /* ensures they don’t spill outside container */
+}
+
+.post-content li {
+  line-height: 1.6;      /* consistent with paragraph spacing */
+  margin-bottom: 0.4em;  /* adds breathing room between list items */
 }
