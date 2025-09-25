@@ -92,3 +92,11 @@ li {
   line-height: 1.6;      /* consistent with paragraph spacing */
   margin-bottom: 0.4em;  /* adds breathing room between list items */
 }
+
+/* Mobile-specific adjustments */
+@media (max-width: 768px) {
+  .post-content ul,
+  .page-content ul {
+    padding-left: 1rem;   /* slightly smaller indent on mobile */
+  }
+}

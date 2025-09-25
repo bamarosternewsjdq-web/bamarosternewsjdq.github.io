@@ -10,8 +10,8 @@ categories: updates
 Alabama will start SEC play on Saturday against the Georgia Bulldogs in Athens. Kalen DeBoer has struggled on the road while at Alabama, currently 2-4 in road contests and 0-1 at neutral sites. This will be a huge opportunity for DeBoer to change the narrative. On the other hand, Alabama has dominated Georgia over their last 10 meetings, winning 9 of the 10 dating back to 2008. Kirby Smart will have his team geared up to try and swing that back in the Bulldogs favor. In other news, the SEC officially adopted a 9-game conference schedule moving forward and announced each team’s protected rivals. Below is an injury update, Georgia preview, week 5 storylines, and thought about Alabama’s automatic rivals. Let’s go!
 
 ### ***Injury Notes:*** 
-    *Jah-Marien Latham is out indefinitely after sustaining a neck injury during practice
-    *Jam Miller and Tim Keenan are expected to play on Saturday
+-   Jah-Marien Latham is out indefinitely after sustaining a neck injury during practice
+-   Jam Miller and Tim Keenan are expected to play on Saturday
 
 ### ***Week 5 Preview: Georgia Bulldogs***
 
