@@ -11,18 +11,18 @@ Alabama defeated the Vanderbilt Commodores 30-14 on Saturday. The Tide got reven
 
 
 ### Injury Update:
-    -Qua Russaw and Jah-Marien Latham did not play against Vanderbilt
-    -Jalen Hale was available in this game, but did not record any snaps
+-   Qua Russaw and Jah-Marien Latham did not play against Vanderbilt
+-   Jalen Hale was available in this game, but did not record any snaps
 
 
 ### Depth Notes:
-    -Jaeden Roberts did not record any snaps along the offensive line
-    -Danny Lewis was second among Tight Ends with 21 snaps
-    -Jordan Renaud was the exclusive backup to LT Overton at BANDIT
-    -Yhonzae Pierre and Justin Hill were the only two WOLFs who received snaps
-    -Nikhai Hill-Green lined up at WOLF when Vanderbilt had larger sets
-    -Dijon Lee played 31 snaps at corner
-    -Lotzier Brooks is the primary Kick Returner
+-   Jaeden Roberts did not record any snaps along the offensive line
+-   Danny Lewis was second among Tight Ends with 21 snaps
+-   Jordan Renaud was the exclusive backup to LT Overton at BANDIT
+-   Yhonzae Pierre and Justin Hill were the only two WOLFs who received snaps
+-   Nikhai Hill-Green lined up at WOLF when Vanderbilt had larger sets
+-   Dijon Lee played 31 snaps at corner
+-   Lotzier Brooks is the primary Kick Returner
 
 
 ### Week 6 Recap: Vanderbilt Commodores
