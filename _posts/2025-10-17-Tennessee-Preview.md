@@ -6,7 +6,7 @@ categories: updates
 ---
 
 ## Hello and Roll Tide!
-On the Third Saturday in October, Alabama will battle the Tennessee Volunteers for the 108th time. Tennessee has made the rivalry competitive recently, winning 2 of the last 3. Kalen DeBoer will look to win his first game in this storied rivalry. Each team enters at 5-1, giving this game significant playoff implications. Below are injury notes, a Tennessee preview, and week 8 storylines. Let’s go!
+On the Third Saturday in October, Alabama will battle the Tennessee Volunteers for the 108th time. Tennessee has made the rivalry competitive recently, winning 2 of the last 3. Kalen DeBoer will look to win his first game in this storied rivalry. Each team enters at 5-1, giving this game significant playoff implications. Each sideline is itching to be the ones lighting up their cigars when the time hits 0:00. Below are injury notes, a Tennessee preview, and week 8 storylines. Let’s go!
 
 
 ### **Injury Notes:**
