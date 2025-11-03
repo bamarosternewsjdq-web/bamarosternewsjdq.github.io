@@ -39,7 +39,7 @@ Alabama Basketball kicks off their season tonight as they take on North Dakota. 
 
 ### **Depth Chart:**
 -   PG: 1. Labaron Philon; 2. Davion Hannah 
--   SG: 1. Aden Holloway; 2. Latrell Wrightsell Jr. 3. Jalil Bathea 
+-   SG: 1. Aden Holloway; 2. Latrell Wrightsell Jr.; 3. Jalil Bathea 
 -   SF/G: 1. Houston Mallette; 2. Amari Allen; 3. London Jeminson 
 -   PF: 1. Taylor Bol Bowen; 2. Keitenn Bristow
 -   C: 1. Aiden Sherrell; 2. Noah Williamson; 3. Collins Onyekiaka
@@ -53,7 +53,7 @@ Alabama Basketball kicks off their season tonight as they take on North Dakota. 
 
 **New Faces, Same Goals:** Alabama returns five players from a season ago, 3 of which were significant contributors. Resetting the team to this degree is very difficult for any coaching staff. Oats has had tournament success at Alabama, setting a new standard. Alabama has been to the Sweet Sixteen 4 of the last 5 years. While the bar has been raised, making the tournament should be our preseason goal. This is a brand-new team in a very difficult conference. 
 
-**Keep Possession/Turnover** and Rebounds: The season hasn’t even started yet and Nate Oats is already talking about rebounding. After an exhibition game, Nate mentioned that the team needs to be better at rebounding on both sides of the ball. It’s simple: Offensive rebounds lead to more possessions and defensive rebounds limit the opposing team’s possessions. Last year the Tide also struggled with turnovers. The turnover margin, like rebounding, will either add or subtract possessions from a team. Nate Oats teams are built on Blue Collar plays. Nothing shows effort better than out-rebounding and winning the turnover margin.
+**Keep Possession/Turnover and Rebounds:** The season hasn’t even started yet and Nate Oats is already talking about rebounding. After an exhibition game, Nate mentioned that the team needs to be better at rebounding on both sides of the ball. It’s simple: Offensive rebounds lead to more possessions and defensive rebounds limit the opposing team’s possessions. Last year the Tide also struggled with turnovers. The turnover margin, like rebounding, will either add or subtract possessions from a team. Nate Oats teams are built on Blue Collar plays. Nothing shows effort better than out-rebounding and winning the turnover margin.
 
 As always, reach out with any questions that you have. If you know of anyone who wants to join the newsletter, send their info my way.
 
