@@ -16,7 +16,7 @@ On Saturday, Alabama will take on the Oklahoma Sooners, hoping to exact revenge 
 -   DaShawn Jones remains as PROBABLE
 
 
-### <u>Week 12 Preview: Oklahoma Sooners</u?>
+### <u>Week 12 Preview: Oklahoma Sooners</u>
 
 Oklahoma enters week 12 with a record of 7-2 (3-2) and are ranked 11th in the College Football Playoff Rankings. Oklahoma had a rocky first season in the SEC, going 6-7 (2-6) in 2024 and now find themselves in the Playoff conversation. Many people had Brent Venables on the hot seat, but it’s cooled down this season. Venables faced the Tide 4 times as the Defensive Coordinator at Clemson, splitting the series 2-2. He is currently 1-0 against the Tide as a Head Coach. Oklahoma has had Alabama’s number in recent history, winning 3 of the last 4 dating back to 2002. The one Alabama win came in 2018 when the Tide defeated Kyler Murray’s #4 Sooners in the Orange Bowl. Oklahoma made 3 consecutive CFB Playoffs from 2017-2019 but have not been back since. Venables has them back in the playoff picture in his 4th season with the Sooners.
 
