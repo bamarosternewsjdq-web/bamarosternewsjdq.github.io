@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Iron Bowl 2025"
-date: 2025-11-28 12:00:00 +0000
+title: "Iron Bowl 2025 Recap"
+date: 2025-12-02 12:00:00 +0000
 categories: updates
 ---
 
