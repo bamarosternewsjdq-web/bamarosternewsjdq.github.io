@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Up date #2: Fall Camp 2026"
+title: "Update #2: Fall Camp 2026"
 date: 2026-08-25 12:00:00 +0000
 categories: updates
 ---
