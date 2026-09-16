@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 3 Recap 2026 - Kentucky
+title: "Week 2 Recap 2026 - Kentucky"
 date: 2026-09-16 12:00:00 +0000
 categories: updates
 ---
