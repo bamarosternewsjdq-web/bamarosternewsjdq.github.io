@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDQ Poll: Preseason - 2026"
+title: "JDQ Poll: Week 1 - 2026"
 date: 2026-09-06 12:00:00 +0000
 categories: updates
 ---
