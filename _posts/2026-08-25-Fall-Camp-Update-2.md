@@ -17,7 +17,7 @@ Fall camp is in full swing and coaches’ decisions continue to get more difficu
 -   With injuries to AK Dear and EJ Crowell at running back, true freshman Trae’shawn Brown has emerged as a candidate to handle snaps in their absence. He has made big plays both running and catching the ball in the two scrimmages so far.
 -   Sophomore Luke Metz is rising at middle linebacker and could be the second starter alongside Caleb Woodson. Junior QB Reese would be a rotational piece at the position.
 -   Chuck McDonald filled in for a banged up Red Morgan at Husky, indicating that he will most likely be the primary backup at the position. 
--   Derek Meadows shined in the second scrimmage, taking advantage of WR snaps while Noah Rogers and Lotzier Brooks are out. Lottie’s injury is not serious.
+-   Derek Meadows shined in the second scrimmage, taking advantage of WR snaps while Noah Rogers and Lotzeir Brooks are out. Lottie’s injury is not serious.
 -   Noah Rogers is ahead of schedule with his recovery. While a timeline was not given, he did participate in practice.
 -   Jeremiah Beaman exited practice with an injury, opening competition for a depth role on the defensive line. Steve Bolo Mboumoua is expected to have a role on the line, and this injury should provide him with additional opportunities.
 -   5-star true-freshman Jireh Edwards had surgery on his arm right arm and will miss the start of the season.
