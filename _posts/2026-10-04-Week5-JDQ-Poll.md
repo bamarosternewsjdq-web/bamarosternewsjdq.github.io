@@ -5,7 +5,7 @@ date: 2026-10-04 12:00:00 +0000
 categories: updates
 ---
 
-## Week 5 JDQ Poll 2026
+## Week 5 JDQ Poll 2026.
 
 1.	Texas
 2.	Georgia
@@ -18,17 +18,18 @@ categories: updates
 9.	UCLA
 10.	Utah
 11.	BYU
-12.	Missouri
-13.	Florida
-14.	Ole Miss
-15.	LSU
-16.	Oklahoma State
-17.	Oregon
-18.	USC
-19.	Mississippi State
+12.	Mississippi State
+13.	Missouri
+14.	Florida
+15.	Ole Miss
+16.	LSU
+17.	Oklahoma State
+18.	Oregon
+19.	USC
 20.	Kentucky
 21.	Nebraska
 22.	Duke
 23.	Pitt
 24.	Iowa
 25.	North Dakota State
+
