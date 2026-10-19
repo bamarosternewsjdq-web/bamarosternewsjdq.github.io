@@ -25,10 +25,11 @@ categories: updates
 16.	Houston
 17.	Northwestern
 18.	Wake Forest
-19.	SMU
-20.	LSU
-21.	Texas
-22.	Auburn
-23.	Missouri
-24.	Florida
+19.	Arizona
+20.	SMU
+21.	LSU
+22.	Texas
+23.	Auburn
+24.	Missouri
 25.	James Madison
+
